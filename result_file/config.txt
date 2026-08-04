@@ -1,0 +1,15 @@
+receptor = pfMDR1_clean.pdbqt
+ligand = Nimbolide.pdbqt
+out = result_Nimbolide.pdbqt
+
+center_x = 134.077
+center_y = 143.707
+center_z = 157.423
+
+size_x = 28
+size_y = 25
+size_z = 27
+
+exhaustiveness = 8
+num_modes = 10
+energy_range = 3
